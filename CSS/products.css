@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    overflow-x: hidden;
+    
+    
+    
+}
+
+/* Sections */
+
+
+/* Images */
+#logo{
+margin: 0;
+padding: 0;
+
+    height: 70px;
+}
+
+#card-1{
+   align-content: center;
+   margin-left: 70px;
+   margin-top: 40px;
+   size: 200px;
+}
+
+#card-2{
+    align-content: center;
+    margin-left: 70px;
+    margin-top: 40px;
+ }
+ 
+
+
+
+
+/* Text */
+#name{
+    font-size: 30px;
+}
+
+#acc{
+    margin-top: 50px;
+    margin-left: 500px;
+}

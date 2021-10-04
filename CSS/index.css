@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    
+    
+}
+
+/* Sections */
+
+
+
+/* Images */
+#logo{
+margin: 0;
+padding: 0;
+
+    height: 70px;
+}
+
+#bck{
+   height: 300px;
+    position: relative;
+    bottom: 10px;
+    left: 700px;
+}
+
+
+/* Text */
+#name{
+    font-size: 30px;
+}
+
